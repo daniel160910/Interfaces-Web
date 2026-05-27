@@ -1,1 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <title>História do HTML</title>
+</head>
+
+<body bgcolor="#87CEFA">
+
+    <center>
+        <h1>🌐 História do HTML</h1>
+    </center>
+
+    <hr color="white">
+
+    <h2>O que é HTML?</h2>
+
+    <p>
+        O HTML é uma linguagem usada para criar páginas da internet.
+        Ele foi criado em 12 de março de 1989 por Tim Berners-Lee,
+        conhecido como o “pai da web”.
+    </p>
+
+    <p>
+        O objetivo era facilitar a comunicação entre usuário e servidor
+        e tornar o acesso à internet mais simples.
+    </p>
+
+    <center>
+        <img src="images.png" width="450" height="250">
+    </center>
+
+    <br>
+
+    <h2 align="center">Como o HTML funciona?</h2>
+
+    <p>
+        O HTML funciona através de códigos chamados tags.
+        Essas tags organizam textos, imagens, títulos e outras partes
+        da página.
+    </p>
+
+    <p>
+        Quando você entra em um site, o navegador lê o HTML
+        e mostra tudo organizado na tela do computador ou celular.
+    </p>
+
+    <br>
+
+    <h2 align="center">Importância do HTML</h2>
+
+    <p>
+        O HTML é muito importante porque praticamente todos os sites
+        usam ele como base.
+    </p>
+
+    <p>
+        Com o tempo ele evoluiu até chegar no HTML5,
+        que trouxe mais recursos e deixou os sites melhores e mais modernos.
+    </p>
+
+    <hr color="white">
+
+</body>
+
+</html>
